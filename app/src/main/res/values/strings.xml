@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email">Escribe tu correo electrónico</string>
+    <string name="password">Escribe tu contraseña</string>
+    <string name="nombre">Escribe tu nombre completo</string>
+    <string name="registrar_usuario">Registrar usuario</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="iniciar_sesión">Iniciar sesión</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>

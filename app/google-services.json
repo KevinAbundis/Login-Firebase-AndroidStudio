@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80374442214",
+    "firebase_url": "https://login-921f4.firebaseio.com",
+    "project_id": "login-921f4",
+    "storage_bucket": "login-921f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80374442214:android:9f3c28fdc9ef834a9b3327",
+        "android_client_info": {
+          "package_name": "com.abundis.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80374442214-li15m7pmc1t2lg04okj0jmgv1u4ategm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abundis.login",
+            "certificate_hash": "0d7a63cce91ad36253c290bdd13f81cefe0d8ee2"
+          }
+        },
+        {
+          "client_id": "80374442214-7jipt1gorsiuraigdumnm81erbkb50d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKrYUWjMaLz0bdR4Q-CRJcYEx4gCgOP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80374442214-7jipt1gorsiuraigdumnm81erbkb50d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
